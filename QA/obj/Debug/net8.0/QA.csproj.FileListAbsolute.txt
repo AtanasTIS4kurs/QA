@@ -97,3 +97,4 @@ C:\Users\FISN-PC\Documents\GitHub\QA\QA\obj\Debug\net8.0\refint\QA.dll
 C:\Users\FISN-PC\Documents\GitHub\QA\QA\obj\Debug\net8.0\QA.pdb
 C:\Users\FISN-PC\Documents\GitHub\QA\QA\obj\Debug\net8.0\QA.genruntimeconfig.cache
 C:\Users\FISN-PC\Documents\GitHub\QA\QA\obj\Debug\net8.0\ref\QA.dll
+C:\Users\FISN-PC\Documents\GitHub\QA\QA\obj\Debug\net8.0\QA.sourcelink.json

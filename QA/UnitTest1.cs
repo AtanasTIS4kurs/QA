@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 
 namespace QA
 {
+    [TestFixture]
     public class UserResponce 
     {
         public int id { get; set; } 
