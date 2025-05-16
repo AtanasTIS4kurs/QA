@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PU_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2359baa159801d0dbc2ecf71a87d02ac673087a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PU_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PU_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

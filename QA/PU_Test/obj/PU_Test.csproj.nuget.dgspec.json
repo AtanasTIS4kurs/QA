@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\PU_Test.csproj": {}
+    "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\PU_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\PU_Test.csproj": {
+    "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\PU_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\PU_Test.csproj",
+        "projectUniqueName": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\PU_Test.csproj",
         "projectName": "PU_Test",
-        "projectPath": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\PU_Test.csproj",
+        "projectPath": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\PU_Test.csproj",
         "packagesPath": "C:\\Users\\FISN-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\obj\\",
+        "outputPath": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

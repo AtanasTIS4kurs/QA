@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\",
+  "WorkspaceRootPath": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\tests\\userstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\tests\\userstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:tests\\userstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\framework\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:framework\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\framework\\httpclientfactory\\httpclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:framework\\httpclientfactory\\httpclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\framework\\models\\service\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:framework\\models\\service\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\framework\\httpclientfactory\\httpclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:framework\\httpclientfactory\\httpclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\pu_test\\pu_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\framework\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:framework\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\framework\\models\\service\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:framework\\models\\service\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|c:\\users\\fisn-pc\\documents\\github\\qa\\qa\\pu_test\\pu_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C30AEEC4-A943-4A4B-9B37-C48CF7E8A4B1}|PU_Test.csproj|solutionrelative:pu_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -52,100 +52,98 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsersTest.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Tests\\UsersTest.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Tests\\UsersTest.cs",
               "RelativeDocumentMoniker": "Tests\\UsersTest.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Tests\\UsersTest.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Tests\\UsersTest.cs",
               "RelativeToolTip": "Tests\\UsersTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T15:45:32.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ServiceRegistry.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Framework\\Models\\Service\\ServiceRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Framework\\Models\\Service\\ServiceRegistry.cs",
               "RelativeDocumentMoniker": "Framework\\Models\\Service\\ServiceRegistry.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Framework\\Models\\Service\\ServiceRegistry.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Framework\\Models\\Service\\ServiceRegistry.cs",
               "RelativeToolTip": "Framework\\Models\\Service\\ServiceRegistry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:55:35.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T14:55:35.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TestBase.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Tests\\TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Tests\\TestBase.cs",
               "RelativeDocumentMoniker": "Tests\\TestBase.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Tests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Tests\\TestBase.cs",
               "RelativeToolTip": "Tests\\TestBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T14:38:05.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "TestConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\TestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\TestConfiguration.cs",
               "RelativeDocumentMoniker": "TestConfiguration.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\TestConfiguration.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\TestConfiguration.cs",
               "RelativeToolTip": "TestConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T14:31:21.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "config.json",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\config.json",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\config.json",
               "RelativeDocumentMoniker": "config.json",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\config.json",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\config.json",
               "RelativeToolTip": "config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-09T14:20:41.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Framework\\Models\\UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Framework\\Models\\UserResponse.cs",
               "RelativeDocumentMoniker": "Framework\\Models\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Framework\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Framework\\Models\\UserResponse.cs",
               "RelativeToolTip": "Framework\\Models\\UserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:18:19.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T14:18:19.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "HttpClientProvider.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Framework\\HttpClientFactory\\HttpClientProvider.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Framework\\HttpClientFactory\\HttpClientProvider.cs",
               "RelativeDocumentMoniker": "Framework\\HttpClientFactory\\HttpClientProvider.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\Framework\\HttpClientFactory\\HttpClientProvider.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\Framework\\HttpClientFactory\\HttpClientProvider.cs",
               "RelativeToolTip": "Framework\\HttpClientFactory\\HttpClientProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T14:16:29.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,15 +153,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PU_Test",
-              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\PU_Test.csproj",
+              "Title": "PU_Test.csproj",
+              "DocumentMoniker": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\PU_Test.csproj",
               "RelativeDocumentMoniker": "PU_Test.csproj",
-              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\PU_Test\\PU_Test.csproj",
+              "ToolTip": "C:\\Users\\FISN-PC\\Documents\\GitHub\\QA\\QA\\PU_Test\\PU_Test.csproj",
               "RelativeToolTip": "PU_Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-09T14:12:57.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T14:12:57.477Z"
             }
           ]
         }
